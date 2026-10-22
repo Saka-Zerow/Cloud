@@ -71,3 +71,4 @@ log "   crontab -e"
 log "   tambahkan:"
 log "   @reboot $GS_DIR/gs-netcat -ilD -s \$(cat $KEY_FILE) -p $PORT"
 log "========================================="
+
